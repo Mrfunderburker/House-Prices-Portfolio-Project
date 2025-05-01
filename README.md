@@ -1,6 +1,6 @@
 # House-Prices-Portfolio-Project
 
-
+![alt text](https://storage.googleapis.com/kaggle-media/competitions/House%20Prices/kaggle_5407_media_housesbanner.png)
 
 ## Data fields
 
