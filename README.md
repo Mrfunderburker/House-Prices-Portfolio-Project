@@ -1,6 +1,8 @@
 # House-Prices-Portfolio-Project
 
-![alt text](image.png)
+
+
+## Data fields
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 
