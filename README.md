@@ -1,6 +1,6 @@
 # House-Prices-Portfolio-Project
 
-![alt text](https://storage.googleapis.com/kaggle-media/competitions/House%20Prices/kaggle_5407_media_housesbanner.png)
+![alt text](image.png)
 
 ## Data fields
 
@@ -164,3 +164,4 @@ SaleType: Type of sale
 
 SaleCondition: Condition of sale
 
+## Background
