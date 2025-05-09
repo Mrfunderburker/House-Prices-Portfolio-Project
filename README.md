@@ -2,6 +2,20 @@
 
 ![alt text](image.png)
 
+## Project overview
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+
+
+## Acknowledgments
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
+
+
+## Goal
+It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+
+
 ## Data fields
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
@@ -165,3 +179,28 @@ SaleType: Type of sale
 SaleCondition: Condition of sale
 
 ## Background
+
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
+
+### Participation
+
+867,393 Entrants
+
+4,802 Participants
+
+4,626 Teams
+
+23,300 Submissions
+
+
+## Exploratory Data Analysis (EDA)
+
+Exploring the data and seeing the correlation with all the columns and sale price to determine which comlums to keep and exlore further.
+
+## Data Cleaning
+
+Keeping numerical columns with a 0.5 correlation and higher, keeping categorical columns with a 0.2 correlation and higher. Hot endcoding, scaling, and coverting booleans into integer types. Then saving it all to a new dataframe for modeling.
+
+## Create Models
+
+Ramdome Forest Regressor model, Gradient Boosting Regressor model, 
