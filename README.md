@@ -206,5 +206,16 @@ Keeping numerical columns with a 0.5 correlation and higher, keeping categorical
 
 ## Create Models
 
-Ramdome Forest Regressor, Gradient Boosting Regressor, and XGBRegressor. Testing all these models for their mean absolute error (MAE)
+Random Forest Regressor, Gradient Boosting Regressor, and XGBRegressor. Testing all these models for their mean absolute error (MAE)
 
+## Packages
+
+- pandas
+
+- numpy
+
+- matplotlib.pyplot
+
+- seaborn
+
+- sklearn
