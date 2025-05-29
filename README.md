@@ -211,11 +211,7 @@ Random Forest Regressor, Gradient Boosting Regressor, and XGBRegressor. Testing 
 ## Packages
 
 - pandas
-
 - numpy
-
 - matplotlib.pyplot
-
 - seaborn
-
 - sklearn
